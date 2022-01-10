@@ -51,7 +51,7 @@ print(value)
 
 ## Output:
 ![output](1.jpg)
-1[output](2.jpg)
+![output](2.jpg)
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
